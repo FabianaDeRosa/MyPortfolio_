@@ -22,6 +22,8 @@
         <a href="https://www.linkedin.com/in/derosafabiana/" target="_blank">fabianaderosa</a>
         <i class="fa-solid fa-envelope fa-xl"></i>
         <a href="mailto:fabianadr00@gmail.com">fabianadr00@gmail.com</a>
+        <i class="fa-brands fa-github fa-xl"></i>
+        <a href="https://github.com/FabianaDeRosa">github</a>
     </div>
 </div>
 
@@ -99,6 +101,9 @@
 
         a{
             &:first-of-type{
+                padding-right: 1em;
+            }
+            &:nth-of-type(2){
                 padding-right: 1em;
             }
         }

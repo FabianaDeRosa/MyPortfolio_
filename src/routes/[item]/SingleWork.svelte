@@ -7,6 +7,7 @@
     export let video;
     export let link;
     export let link_2;
+
 </script>
 
 
