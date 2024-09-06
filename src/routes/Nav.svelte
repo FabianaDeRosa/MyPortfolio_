@@ -20,7 +20,7 @@
 	</div>
 	<div class="nav-links">
 		{#each works as work}
-			<a href="/{work.id - 1}" target="_self">{work.title}</a>
+			<a href="/{work.id}" target="_self">{work.title}</a>
 		{/each}
 	</div>
 	<div class="title">
